@@ -1,4 +1,17 @@
-Name : Tanay
-Roll Number : 304
-Name : Yashu
-Roll Number : 307
+Acoount Number : 1234
+Balance : 1234.0
+
+Acoount Number : 1234
+Balance : 5801.0
+
+Negative money can not be added : -1.0
+Acoount Number : 1234
+Balance : 5801.0
+
+Acoount Number : 1234
+Balance : 4578.0
+
+Insufficient funds!
+1234
+4567
+4578.0
