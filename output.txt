@@ -1,17 +1,6 @@
-Acoount Number : 1234
-Balance : 1234.0
-
-Acoount Number : 1234
-Balance : 5801.0
-
-Negative money can not be added : -1.0
-Acoount Number : 1234
-Balance : 5801.0
-
-Acoount Number : 1234
-Balance : 4578.0
-
-Insufficient funds!
-1234
-4567
-4578.0
+Length : 1.00
+Width : 1.00
+Area : 1.00
+Length : 5.00
+Width : 3.00
+Area : 15.00
