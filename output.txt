@@ -1,4 +1,17 @@
-Name : Tanay
-Roll Number : 304
-Name : Yashu
-Roll Number : 307
+false
+true
+true
+true
+true
+true
+true
+Book is not available.
+true
+true
+Book is not available.
+Book is not available.
+true
+false
+Book is not available.
+Book is not available.
+true
