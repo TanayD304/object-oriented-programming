@@ -1,0 +1,6 @@
+Invalid salary
+Salary : 0.00
+Invalid salary
+Name : Striver
+Employee Id : 9656
+Salary : 0.00
