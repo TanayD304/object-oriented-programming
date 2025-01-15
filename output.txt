@@ -1,4 +1,8 @@
-Name : Tanay
-Roll Number : 304
-Name : Yashu
-Roll Number : 307
+Manager Details
+Name : Jax
+Id : 101
+Team Size : 8
+Engineer Details
+Name : William
+Id : 202
+Specialization : Backend Engineer
