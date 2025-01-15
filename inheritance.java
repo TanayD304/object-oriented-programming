@@ -44,7 +44,7 @@ class Engineer extends Employees {
 }
 
 
-class inhertance {
+class inheritance {
     public static void main(String[] args) {
         Engineer e1 = new Engineer("William", 202, "Backend Engineer");
         Manager m1 = new Manager("Jax", 101, 8);

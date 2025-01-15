@@ -1,8 +1,6 @@
-Manager Details
 Name : Jax
 Id : 101
 Team Size : 8
-Engineer Details
 Name : William
 Id : 202
 Specialization : Backend Engineer
