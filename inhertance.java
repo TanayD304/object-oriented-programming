@@ -1,8 +1,8 @@
-class Employee {
+class Employees {
     private String name;
     private int id;
 
-    Employee(String name, int id) {
+    Employees(String name, int id) {
         this.name = name;
         this.id = id;
     }
@@ -13,7 +13,7 @@ class Employee {
     }
 }
 
-class Manager extends Employee {
+class Manager extends Employees {
     private int teamSize;
 
     Manager(String name, int id, int teamSize) {
@@ -28,7 +28,7 @@ class Manager extends Employee {
     }
 }
 
-class Engineer extends Employee {
+class Engineer extends Employees {
     private String specialization;
 
     Engineer(String name, int id, String specialization) {
