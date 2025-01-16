@@ -1,6 +1,3 @@
-Name : Jax
-Id : 101
-Team Size : 8
-Name : William
-Id : 202
-Specialization : Backend Engineer
+Area of Circle : 28
+Area of Rectangle : 10
+Area of Trapezoid: 17
