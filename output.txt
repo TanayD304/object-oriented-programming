@@ -1,4 +1,3 @@
-Name : Tanay
-Roll Number : 304
-Name : Yashu
-Roll Number : 307
+Area of Circle : 28
+Area of Rectangle : 10
+Area of Trapezoid: 17
