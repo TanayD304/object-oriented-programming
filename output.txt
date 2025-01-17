@@ -1,3 +1,2 @@
-Area of Circle : 28
-Area of Rectangle : 10
-Area of Trapezoid: 17
+The dog Buddy says : Woof!
+The cat Whiskers says : Meow!
