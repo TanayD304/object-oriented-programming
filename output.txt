@@ -1,4 +1,2 @@
-Name : Tanay
-Roll Number : 304
-Name : Yashu
-Roll Number : 307
+The dog Buddy says : Woof!
+The cat Whiskers says : Meow!
